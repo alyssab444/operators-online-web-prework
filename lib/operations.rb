@@ -7,7 +7,7 @@ https://learn.co/tracks/web-development-fundamentals/intro-to-ruby/conditionals/
 
 
 def not_safe?(speed)
-  speed < 40 ? : > 50
+  speed > 60 
 end
 	
 
